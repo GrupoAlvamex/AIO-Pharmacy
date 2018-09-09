@@ -1,2 +1,2 @@
 # AIO-Pharmacy
-All in One Pharmacy System using Odoo Business Framwork
+All in One Pharmacy System using Odoo Business ERP
